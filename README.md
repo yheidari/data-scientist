@@ -1,4 +1,4 @@
-# Yashar Heidari â€” Data Scientist Portfolio
+# Yashar Heidari — Data Scientist Portfolio
 
 Predictive modeling, experimentation, and causal analysis.
 
@@ -13,7 +13,7 @@ Data Scientist with 5 years of experience applying statistical analysis, predict
 
 ## Contact
 
-- Location: Messina, Italy آ· Open to Remote
+- Location: Messina, Italy · Open to Remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
 - GitHub: https://github.com/yheidari/data-scientist
